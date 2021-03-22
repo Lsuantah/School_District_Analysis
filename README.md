@@ -11,6 +11,10 @@ When 9th graders Math and Reading scores of THS were excluded, it slightly affec
 
 o	How the school summary was affected
 
+
+![Output_per_school_summary](https://user-images.githubusercontent.com/75961117/111932112-2295cb80-8a93-11eb-9325-eb62f7487e0f.PNG)
+
+
 When we compare the original data with the per school summary dataframe, excluding THS 9th grade Math and Reading score very little effect on the overall % passing.
 
 o	How replacing of the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools
